@@ -21,3 +21,16 @@
 ## mingw
  - cmder startup
 ## cmder ok
+ - autohotkey
+ - nodejs
+ - python
+ - php
+ - go
+ - lua
+ - perl
+ - erlang
+ - java
+ - ruby
+ - scala
+ - miktex
+## env
